@@ -1,4 +1,4 @@
 AVR
 ===
 
-AVR tools
+AVR tools to be used with Travis
